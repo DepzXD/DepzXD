@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Hi, I'm Deepak, a passionate self-taught developer.
+
 <!--
 **DepzXD/DepzXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
