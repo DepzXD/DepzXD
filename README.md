@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Deepak, a passionate Self-taught **</ Developer>**.
+I'm ~~Deepak Kumar~~ a.k.a Depz, a passionate Self-taught **</ Developer>**.
 
 <!--
 **DepzXD/DepzXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
