@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm ~~Deepak Kumar~~ a.k.a Depz, a passionate Self-taught **</ Developer>**.
 
-## Languages and Tools 
+## 🐱‍💻 Languages and Tools 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
@@ -16,3 +16,18 @@ I'm ~~Deepak Kumar~~ a.k.a Depz, a passionate Self-taught **</ Developer>**.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
+## <img height="20" src="./assets/kyubey.gif"> Connect with me
+<a href="https://www.linkedin.com/in/depzXD/">
+  <img height="25" src="./assets/linkedin.svg">
+</a>
+<!-- <a href="">
+  <img height="25" src="./assets/discord.svg">
+</a> -->
+
+<a href="https://twitter.com/DepzXD">
+  <img height="25" src="./assets/twitter.svg">
+</a>
+
+<a href="https://codepen.io/DepzXD">
+  <img height="25" src="./assets/codepen.svg">
+</a>
