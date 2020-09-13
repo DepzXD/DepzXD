@@ -18,16 +18,16 @@ I'm ~~Deepak Kumar~~ a.k.a Depz, a passionate Self-taught **</ Developer>**.
 
 ## <img height="20" src="./assets/kyubey.gif"> Connect with me
 <a href="https://www.linkedin.com/in/depzXD/">
-  <img height="25" src="./assets/linkedin.svg">
+  <img height="25" src="https://raw.githubusercontent.com/DepzXD/DepzXD/master/assets/linkedin.svg">
 </a>
 <!-- <a href="">
   <img height="25" src="./assets/discord.svg">
 </a> -->
 
 <a href="https://twitter.com/DepzXD">
-  <img height="25" src="./assets/twitter.svg">
+  <img height="25" src="https://raw.githubusercontent.com/DepzXD/DepzXD/master/assets/twitter.svg">
 </a>
 
 <a href="https://codepen.io/DepzXD">
-  <img height="25" src="./assets/codepen.svg">
+  <img height="25" src="https://raw.githubusercontent.com/DepzXD/DepzXD/master/assets/codepen.svg">
 </a>
