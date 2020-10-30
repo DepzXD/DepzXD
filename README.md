@@ -1,5 +1,5 @@
 ### 🎃 Hi there 👋
-I'm ~~Deepak Kumar~~ a.k.a Depz, a passionate Self-taught **</ Developer>**.
+I'm ~~Deepak Kumar~~ a.k.a 🧛‍♀️ Depz, a passionate Self-taught **</ Developer>**.
 
 ## 🐱‍💻 Languages and Tools 
 
